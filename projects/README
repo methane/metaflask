@@ -29,6 +29,7 @@ PROJECT OVERVIEW
         Bugtracker: the URL to the bug tracker
         Mailinglist: the URL to the mailinglist information page
         Documentation: the URL to the documentation
+        Python3: the project supports Python 3 or not.  "yes" / "no"
 
     EXTENSION_STATUS
       If a project is a Flask extension this file defines the state of
